@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #212081;
+}
+
+header {
+    background: #41578f;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #333;
+}
+
+h3 {
+    color: #555;
+}
+
+ul {
+    list-style-type: square;
+    margin: 10px 0 10px 20px;
+}
+
+footer {
+    text-align: center;
+    margin: 20px;
+}
+
+#changeColorButton {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
