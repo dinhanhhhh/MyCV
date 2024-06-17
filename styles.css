@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background: #41578f;
+    background: #2e9c7b;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -44,4 +44,8 @@ footer {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
+    border-radius: 5px;
+}
+#changeColorButton:hover {
+    background-color: #45a049;
 }
